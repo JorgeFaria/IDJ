@@ -1,0 +1,13 @@
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\bin\Debug\netcoreapp3.1\Beer Counter.exe
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\bin\Debug\netcoreapp3.1\Beer Counter.deps.json
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\bin\Debug\netcoreapp3.1\Beer Counter.runtimeconfig.json
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\bin\Debug\netcoreapp3.1\Beer Counter.runtimeconfig.dev.json
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\bin\Debug\netcoreapp3.1\Beer Counter.dll
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\bin\Debug\netcoreapp3.1\Beer Counter.pdb
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\obj\Debug\netcoreapp3.1\Beer Counter.csprojAssemblyReference.cache
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\obj\Debug\netcoreapp3.1\Beer Counter.csproj.CoreCompileInputs.cache
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\obj\Debug\netcoreapp3.1\Beer Counter.AssemblyInfoInputs.cache
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\obj\Debug\netcoreapp3.1\Beer Counter.AssemblyInfo.cs
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\obj\Debug\netcoreapp3.1\Beer Counter.dll
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\obj\Debug\netcoreapp3.1\Beer Counter.pdb
+C:\Users\Stiky\Desktop\IDJ\Beer Counter\obj\Debug\netcoreapp3.1\Beer Counter.genruntimeconfig.cache
