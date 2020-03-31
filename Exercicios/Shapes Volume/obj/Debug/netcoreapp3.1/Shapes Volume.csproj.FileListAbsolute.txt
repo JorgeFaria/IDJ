@@ -1,0 +1,13 @@
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\bin\Debug\netcoreapp3.1\Shapes Volume.exe
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\bin\Debug\netcoreapp3.1\Shapes Volume.deps.json
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\bin\Debug\netcoreapp3.1\Shapes Volume.runtimeconfig.json
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\bin\Debug\netcoreapp3.1\Shapes Volume.runtimeconfig.dev.json
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\bin\Debug\netcoreapp3.1\Shapes Volume.dll
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\bin\Debug\netcoreapp3.1\Shapes Volume.pdb
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\obj\Debug\netcoreapp3.1\Shapes Volume.csprojAssemblyReference.cache
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\obj\Debug\netcoreapp3.1\Shapes Volume.csproj.CoreCompileInputs.cache
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\obj\Debug\netcoreapp3.1\Shapes Volume.AssemblyInfoInputs.cache
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\obj\Debug\netcoreapp3.1\Shapes Volume.AssemblyInfo.cs
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\obj\Debug\netcoreapp3.1\Shapes Volume.dll
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\obj\Debug\netcoreapp3.1\Shapes Volume.pdb
+C:\Users\Stiky\Desktop\programaçao\IDJ\Shapes Volume\obj\Debug\netcoreapp3.1\Shapes Volume.genruntimeconfig.cache
