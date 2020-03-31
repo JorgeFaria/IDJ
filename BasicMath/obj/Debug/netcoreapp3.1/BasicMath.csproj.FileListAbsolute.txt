@@ -1,0 +1,13 @@
+C:\Users\Stiky\Desktop\IDJ\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.exe
+C:\Users\Stiky\Desktop\IDJ\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.deps.json
+C:\Users\Stiky\Desktop\IDJ\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.runtimeconfig.json
+C:\Users\Stiky\Desktop\IDJ\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.runtimeconfig.dev.json
+C:\Users\Stiky\Desktop\IDJ\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.dll
+C:\Users\Stiky\Desktop\IDJ\BasicMath\bin\Debug\netcoreapp3.1\BasicMath.pdb
+C:\Users\Stiky\Desktop\IDJ\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.csprojAssemblyReference.cache
+C:\Users\Stiky\Desktop\IDJ\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.csproj.CoreCompileInputs.cache
+C:\Users\Stiky\Desktop\IDJ\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.AssemblyInfoInputs.cache
+C:\Users\Stiky\Desktop\IDJ\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.AssemblyInfo.cs
+C:\Users\Stiky\Desktop\IDJ\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.dll
+C:\Users\Stiky\Desktop\IDJ\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.pdb
+C:\Users\Stiky\Desktop\IDJ\BasicMath\obj\Debug\netcoreapp3.1\BasicMath.genruntimeconfig.cache
