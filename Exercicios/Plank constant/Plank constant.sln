@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plank constant", "Plank constant.csproj", "{2A2BA5E5-102E-4CF8-A0E1-9EEAC30EBEFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A2BA5E5-102E-4CF8-A0E1-9EEAC30EBEFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A2BA5E5-102E-4CF8-A0E1-9EEAC30EBEFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A2BA5E5-102E-4CF8-A0E1-9EEAC30EBEFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A2BA5E5-102E-4CF8-A0E1-9EEAC30EBEFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6E1323C6-7B0E-4542-BE9A-AEA76FB2AE7E}
+	EndGlobalSection
+EndGlobal
