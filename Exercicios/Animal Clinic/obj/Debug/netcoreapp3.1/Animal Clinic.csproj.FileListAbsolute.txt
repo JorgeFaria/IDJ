@@ -1,0 +1,13 @@
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\bin\Debug\netcoreapp3.1\Animal Clinic.exe
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\bin\Debug\netcoreapp3.1\Animal Clinic.deps.json
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\bin\Debug\netcoreapp3.1\Animal Clinic.runtimeconfig.json
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\bin\Debug\netcoreapp3.1\Animal Clinic.runtimeconfig.dev.json
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\bin\Debug\netcoreapp3.1\Animal Clinic.dll
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\bin\Debug\netcoreapp3.1\Animal Clinic.pdb
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\obj\Debug\netcoreapp3.1\Animal Clinic.csprojAssemblyReference.cache
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\obj\Debug\netcoreapp3.1\Animal Clinic.csproj.CoreCompileInputs.cache
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\obj\Debug\netcoreapp3.1\Animal Clinic.AssemblyInfoInputs.cache
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\obj\Debug\netcoreapp3.1\Animal Clinic.AssemblyInfo.cs
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\obj\Debug\netcoreapp3.1\Animal Clinic.dll
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\obj\Debug\netcoreapp3.1\Animal Clinic.pdb
+C:\Users\Stiky\Desktop\programaçao\IDJ\Animal Clinic\obj\Debug\netcoreapp3.1\Animal Clinic.genruntimeconfig.cache
