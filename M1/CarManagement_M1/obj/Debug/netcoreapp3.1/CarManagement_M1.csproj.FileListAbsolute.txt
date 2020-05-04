@@ -1,0 +1,13 @@
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\bin\Debug\netcoreapp3.1\CarManagement_M1.exe
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\bin\Debug\netcoreapp3.1\CarManagement_M1.deps.json
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\bin\Debug\netcoreapp3.1\CarManagement_M1.runtimeconfig.json
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\bin\Debug\netcoreapp3.1\CarManagement_M1.runtimeconfig.dev.json
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\bin\Debug\netcoreapp3.1\CarManagement_M1.dll
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\bin\Debug\netcoreapp3.1\CarManagement_M1.pdb
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\obj\Debug\netcoreapp3.1\CarManagement_M1.csprojAssemblyReference.cache
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\obj\Debug\netcoreapp3.1\CarManagement_M1.csproj.CoreCompileInputs.cache
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\obj\Debug\netcoreapp3.1\CarManagement_M1.AssemblyInfoInputs.cache
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\obj\Debug\netcoreapp3.1\CarManagement_M1.AssemblyInfo.cs
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\obj\Debug\netcoreapp3.1\CarManagement_M1.dll
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\obj\Debug\netcoreapp3.1\CarManagement_M1.pdb
+C:\Users\Stiky\Documents\GitHub\IDJ\M1\CarManagement_M1\obj\Debug\netcoreapp3.1\CarManagement_M1.genruntimeconfig.cache
