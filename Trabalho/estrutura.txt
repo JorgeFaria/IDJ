@@ -1,9 +1,9 @@
-CARRO:
+CARRO: (RPM calculador)
 -armor;
 -make;
 -model;
 -color;
--health;
+-health; (stopping to fast)
 
 PNEUS:
 -grip;
