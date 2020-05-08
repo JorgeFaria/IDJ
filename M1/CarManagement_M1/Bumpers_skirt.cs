@@ -10,11 +10,15 @@ namespace CarManagement_M1
         public int FrontBumper_id { get; set; }
         public int BackBumper_id { get; set; }
         public int Skirt_id { get; set; }
-        public Color FrontBumperColor { get; set; }
-        public Color BackBumperColor { get; set; }
-        public Color SkirtColor { get; set; }
+        public enum FrontBumperColors { Red, White, Black, Yellow, Pink, Blue, Orange, Green }
+        public Dictionary<FrontBumperColors, int> FrontBumperColor = new Dictionary<FrontBumperColors, int>();
+       
+        public enum BackBumperColors { Red, White, Black, Yellow, Pink, Blue, Orange, Green }
+        public Dictionary<BackBumperColors, int> BackBumperColor = new Dictionary<BackBumperColors, int>();
+        public enum SkirtColors { Red, White, Black, Yellow, Pink, Blue, Orange, Green }
+        public Dictionary<SkirtColors, int> SkirtColor = new Dictionary<SkirtColors, int>();
 
-        public Bumpers_skirt(int frontBumper_id, int backBumpercolor, int skirt_id, Color frontBumperColor, Color backBumperColor, Color skirtColor)
+        public Bumpers_skirt(int frontBumper_id, int backBumpercolor, int skirt_id, Dictionary<FrontBumperColors, int> frontBumperColor, Dictionary<BackBumperColors, int> backBumperColor, Dictionary<SkirtColors, int> skirtColor)
         {
             this.FrontBumper_id = frontBumper_id;
             this.BackBumper_id = backBumpercolor;
