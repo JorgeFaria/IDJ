@@ -6,7 +6,7 @@ namespace CarManagement_M1
 {
     public abstract class Storage : Car
     {
-        public enum CarTypes { Offroad, Sport, Drag }
+        public enum CarTypes { SUV, Sport, Van }
 
         public Dictionary<CarTypes, int> CarType = new Dictionary<CarTypes, int>();
         public int Storage_capacity { get; set; }

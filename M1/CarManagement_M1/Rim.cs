@@ -8,7 +8,7 @@ namespace CarManagement_M1
     public class Rim : Car
     {
         public int Size { get; set; }
-        public enum RimColors { Red, White, Black, Yellow, Pink, Blue, Orange, Green }
+        public enum RimColors { Red, Green, Blue}
         public Dictionary<RimColors, int> RimColor = new Dictionary<RimColors, int>();
 
         //public Color RimColor { get; set; }
