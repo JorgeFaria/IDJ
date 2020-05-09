@@ -11,26 +11,55 @@ namespace CarManagement_M1
         private bool hit=false;
 
         public int Armor { get; set;}
-        public string Make { get; set; }
-        public string Model { get; set; }
-        public Color Color { get; set; }
+
+        //can add more makes to enum
+        public enum Makes { Fard, Hando, Lambirghini, Ferruri }
+        public Dictionary<Makes, int> Make = new Dictionary<Makes, int>();
+
+        //can add more models to enum
+        public enum Models { Festa, Civec, Gallirdo, Speciale }
+        public Dictionary<Models, int> Model = new Dictionary<Models, int>();
+        public enum CarColors { Red, White, Black, Yellow, Pink, Blue, Orange, Green }
+        public Dictionary<CarColors, int> CarColor = new Dictionary<CarColors, int>();
         public int Health { get; set; }
         public double Speed { get; set; }
 
-        public Car(int armor, string make, string model, Color color, int health, float speed)
+        public Car(int armor, Dictionary<Makes, int> make, Dictionary<Models, int> model, Dictionary<CarColors, int> carcolor, int health, float speed)
         {
             this.Armor = armor;
             this.Make = make;
             this.Model = model;
-            this.Color = color;
+            this.CarColor = carcolor;
             this.Health = health;
         }
         public Car()
         {
             this.Armor = 100;
-            this.Make = "Make";
-            this.Model = "Dafaul";
-            this.Color = Color.White;
+            this.Make = new Dictionary<Car.Makes, int>
+            {
+                {Makes.Fard, 0},
+                {Makes.Hando, 0},
+                {Makes.Lambirghini, 0},
+                {Makes.Ferruri, 0}
+            };
+            this.Model = new Dictionary<Car.Models, int>
+            {
+                {Models.Festa, 0},
+                {Models.Civec, 0},
+                {Models.Gallirdo, 0},
+                {Models.Speciale, 0}
+            };
+            this.CarColor = new Dictionary<Car.CarColors, int>
+            {
+                {CarColors.Red, 0},
+                {CarColors.White, 0},
+                {CarColors.Black, 0},
+                {CarColors.Yellow, 0},
+                {CarColors.Pink, 0},
+                {CarColors.Blue, 0},
+                {CarColors.Orange, 0},
+                {CarColors.Green, 0},
+            };
             this.Health = 100;
             
 
