@@ -13,10 +13,10 @@ namespace CarManagement_M1
 
         //public Color RimColor { get; set; }
         public enum RimTypes { Offroad, Sport, TwoPiece}
-        public Dictionary<RimTypes, int> RimType = new Dictionary<RimTypes, int>();
+        public RimTypes RimType { get; set; }
 
 
-        public Rim( int size, Dictionary<RimColors, int> rimcolor, Dictionary<RimTypes, int> rimtype)
+        public Rim( int size, Dictionary<RimColors, int> rimcolor, RimTypes rimtype)
         {
             this.Size = size;
             this.RimColor = rimcolor;

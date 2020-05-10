@@ -9,9 +9,9 @@ namespace CarManagement_M1
         public int Grip { get; set; }
         public int Wear { get; set; }
         public enum TireTypes { Offroad, Sport, Drag }
-        public Dictionary<TireTypes, int> TireType = new Dictionary<TireTypes, int>();
+        public TireTypes TireType { get; set; }
 
-        public Tires(int grip, int wear, Dictionary<TireTypes, int> tiretype)
+        public Tires(int grip, int wear,TireTypes tiretype)
         {
             this.Grip = grip;
             this.Wear = wear;
