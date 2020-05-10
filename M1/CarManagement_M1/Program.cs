@@ -8,8 +8,10 @@ namespace CarManagement_M1
     {
         static void Main(string[] args)
         {
-            
-         
+           CarInfo carInfo = new CarInfo();
+
+            Console.WriteLine(carInfo.Model);
+
         }
     }
 }

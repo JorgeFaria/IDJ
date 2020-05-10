@@ -6,11 +6,15 @@ using System.Text;
 namespace CarManagement_M1
     
 {
-    public class Car 
+    public class Car
     {
         //Boolean to detect if car hits something
         private bool hit=false;
 
+        //public Color finalColor;
+        //private int color_r;
+        //private int color_g;
+        //private int color_b;
         //Car armor
         public int Armor { get; set;}
 
@@ -32,6 +36,10 @@ namespace CarManagement_M1
         //Car speed
         public double Speed { get; set; }
 
+        public int Color_r { get ; set ; }
+        public int Color_g { get; set ; }
+        public int Color_b { get; set; }
+
         public Car(int armor, Makes make, Models model , Dictionary<CarColors, int> carcolor, int health, float speed)
         {
             this.Armor = armor;
@@ -47,14 +55,19 @@ namespace CarManagement_M1
             this.Armor = 100;
             this.Make = Makes.Fard;
             this.Model = Models.Gallirdo;
-
+           
+            //this.color_r = (int)CarColors.Red;
+            //this.color_g = (int)CarColors.Green;
+            //this.color_b = (int)CarColors.Blue;
+            //finalColor = Color.FromArgb(color_r, color_g, color_b);
             //Creates unique colors from RGB color codes
             this.CarColor = new Dictionary<Car.CarColors, int>
             {
                 {CarColors.Red, 0},
                 {CarColors.Green, 155},
-                {CarColors.Blue, 137}              
+                {CarColors.Blue, 137}
             };
+
 
 
 

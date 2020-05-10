@@ -7,9 +7,12 @@ namespace CarManagement_M1
 {
    public  class Bumpers_skirt : Car
     {
+        //bumpers id unique to each type of bumper
         public int FrontBumper_id { get; set; }
         public int BackBumper_id { get; set; }
         public int Skirt_id { get; set; }
+
+        //RGB colors for bumpers and skirts
         public enum FrontBumperColors { Red, Green, Blue }
         public Dictionary<FrontBumperColors, int> FrontBumperColor = new Dictionary<FrontBumperColors, int>();
        
